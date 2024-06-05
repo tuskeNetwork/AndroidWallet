@@ -423,6 +423,10 @@
     <string-array name="cryptos" translatable="false">
         <item>Tuske</item>
         <item>Bitcoin</item>
+		<item>Dash</item>
+		<item>Dogecoin</item>
+		<item>Ethereum</item>
+		<item>Litecoin</item>		
     </string-array>
 
     <string name="tx_item_transition_name" translatable="false">tx_transition_%1$s</string>
